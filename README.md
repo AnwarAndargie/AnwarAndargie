@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/AnwarAndargie/AnwarAndargie/main/assets/header-blue-gradient.svg" alt="Header" style="width:100%;" />
 
 <div align="center">
 
@@ -71,5 +70,3 @@ I focus on creating clean, efficient, and user-friendly solutions that make a re
 Built with ❤️ and curiosity.
 
 </div>
-
-<img src="https://raw.githubusercontent.com/AnwarAndargie/AnwarAndargie/main/assets/footer-blue-gradient.svg" alt="Footer" style="width:100%; margin-top: 2rem;" />
